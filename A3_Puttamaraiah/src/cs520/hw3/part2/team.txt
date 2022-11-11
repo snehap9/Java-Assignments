@@ -1,0 +1,49 @@
+2
+Katie Nelson
+G
+Senior
+---------------
+3
+Kelsi Mingo
+G
+Freshman
+---------------
+4
+Liz Shean
+G
+Sophomore
+---------------
+5
+Chiara Tibbitt
+G
+Junior
+--------------- 
+10
+Ashley Sieper
+F
+Junior
+---------------
+21
+Emily Esposito
+G
+Redshirt Junior
+---------------
+22
+Maggie Pina
+G
+Sophomore
+---------------
+23
+Tenisha Pressley
+G
+Senior
+----------------
+25
+Riley Childs
+F
+Junior
+----------------
+33
+Maren Durant
+F
+Sophomore
